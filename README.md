@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mycellia
-- 👀 I’m interested in Games, Animation and Web Development
-- 🌱 I’m currently learning Web Development and Art
+- 🌱 I’m currently learning Information Security, Object Oriented Programming and Web Development
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me, you can reach me on 
 
